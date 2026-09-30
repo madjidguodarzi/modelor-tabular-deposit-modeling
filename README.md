@@ -10,7 +10,7 @@
 ### Evolution & Next Gen
 
 Modelor represented my early work (2007) in 2D/3D spatial modeling and volume estimation for mining.  
-This foundational domain expertise evolved years later into **[Plan2Cost](https://github.com/YOUR_USERNAME/plan2cost)** — incorporating modern Computer Vision and Hybrid ML engines for automated cost and structural estimation from floor plans.
+This foundational domain expertise evolved years later into **[HandDrawn-to-3D-Cost-Estimator](https://github.com/madjidguodarzi/HandDrawn-to-3D-Cost-Estimator)** — incorporating modern Computer Vision and Hybrid ML engines for automated cost and structural estimation from floor plans.
 
 ---
 
