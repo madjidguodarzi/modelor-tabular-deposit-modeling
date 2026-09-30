@@ -105,7 +105,7 @@ Please scan it with your antivirus before running (legacy software).
 If you reference this work, please cite:
 
 > Goudarzi, M. (2007/2026). Modelor: An Early 2D Resource Modeling Tool for Tabular Deposits.  
-> English paper: [docs/Modelor-English-Paper-2007-2026.docx](docs/Modelor-English-Paper-2007-2026.docx)  
+> English paper: [docs/Modelor-English-Paper-2007-2026.docx](docs/Modelor-English-Paper-2007-2026.pdf)  
 > Original Persian paper: [docs/Modelor-Original-Persian-Paper-2007.pdf](docs/Modelor-Original-Persian-Paper-2007.pdf)  
 > Repository: https://github.com/madjidguodarzi/modelor-tabular-deposit-modeling
 
