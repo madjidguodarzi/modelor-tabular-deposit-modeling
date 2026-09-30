@@ -30,15 +30,15 @@ Used to combine Surfer (Kriging) topography and pit models with operational geom
 ## Screenshots
 
 | 3D Surface + Contour |
-|----------------------|
+|:--------------------:|
 | ![3D and Contour](docs/screenshots/3d-surface-and-contour.png) |
 
 | Workflow |
-|----------|
+|:--------:|
 | ![Workflow](docs/screenshots/workflow-flowchart.png) |
 
 | Orthographic View with Boreholes | Thickness & Grade Models |
-|----------------------------------|--------------------------|
+|:--------------------------------:|:------------------------:|
 | ![Orthographic](docs/screenshots/orthographic-view.png) | ![Models](docs/screenshots/thickness-grade-models.png) |
 
 ---
@@ -76,6 +76,13 @@ Used to combine Surfer (Kriging) topography and pit models with operational geom
 
 ---
 
+## Documentation
+
+- [English Paper (2007/2026)](docs/Modelor-English-Paper-2007-2026.docx)
+- [Original Persian Paper (2007)](docs/Modelor-Original-Persian-Paper-2007.pdf)
+
+---
+
 ## Limitations
 
 - Only Inverse Distance estimation (no Kriging or geostatistical methods)
@@ -97,9 +104,10 @@ Please scan it with your antivirus before running (legacy software).
 
 If you reference this work, please cite:
 
-> Goudarzi, M. (2007). Modelor: A software tool for modeling tabular deposits.  
-> Original Persian paper available in `/docs`.  
-> This repository: https://github.com/madjidguodarzi/modelor-tabular-deposit-modeling
+> Goudarzi, M. (2007/2026). Modelor: An Early 2D Resource Modeling Tool for Tabular Deposits.  
+> English paper: [docs/Modelor-English-Paper-2007-2026.docx](docs/Modelor-English-Paper-2007-2026.docx)  
+> Original Persian paper: [docs/Modelor-Original-Persian-Paper-2007.pdf](docs/Modelor-Original-Persian-Paper-2007.pdf)  
+> Repository: https://github.com/madjidguodarzi/modelor-tabular-deposit-modeling
 
 ---
 
