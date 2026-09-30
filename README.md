@@ -29,9 +29,13 @@ Used to combine Surfer (Kriging) topography and pit models with operational geom
 
 ## Screenshots
 
-| 3D Surface + Contour | Workflow |
-|----------------------|----------|
-| ![3D and Contour](docs/screenshots/3d-surface-and-contour.png) | ![Workflow](docs/screenshots/workflow-flowchart.png) |
+| 3D Surface + Contour |
+|----------------------|
+| ![3D and Contour](docs/screenshots/3d-surface-and-contour.png) |
+
+| Workflow |
+|----------|
+| ![Workflow](docs/screenshots/workflow-flowchart.png) |
 
 | Orthographic View with Boreholes | Thickness & Grade Models |
 |----------------------------------|--------------------------|
